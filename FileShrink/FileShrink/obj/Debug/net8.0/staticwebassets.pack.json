@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\FileShrink\\FileShrink\\wwwroot\\CodeFile.cs",
+      "PackagePath": "staticwebassets\\CodeFile.cs"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\FileShrink\\FileShrink\\wwwroot\\output.xlsx",
+      "PackagePath": "staticwebassets\\output.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FileShrink.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FileShrink.props",
+      "PackagePath": "build\\FileShrink.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FileShrink.props",
+      "PackagePath": "buildMultiTargeting\\FileShrink.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FileShrink.props",
+      "PackagePath": "buildTransitive\\FileShrink.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

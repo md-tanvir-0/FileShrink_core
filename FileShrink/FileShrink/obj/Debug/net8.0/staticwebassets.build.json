@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "ZhAnE7coMgUszYtU+N/5dP7QZXlSXG2yeOZYKtH7Xt4=",
+  "Source": "FileShrink",
+  "BasePath": "_content/FileShrink",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileShrink\\wwwroot",
+      "Source": "FileShrink",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\FileShrink\\FileShrink\\wwwroot\\",
+      "BasePath": "_content/FileShrink",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\FileShrink\\FileShrink\\wwwroot\\CodeFile.cs",
+      "SourceId": "FileShrink",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\FileShrink\\FileShrink\\wwwroot\\",
+      "BasePath": "_content/FileShrink",
+      "RelativePath": "CodeFile.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CodeFile.cs"
+    },
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\FileShrink\\FileShrink\\wwwroot\\output.xlsx",
+      "SourceId": "FileShrink",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\source\\repos\\FileShrink\\FileShrink\\wwwroot\\",
+      "BasePath": "_content/FileShrink",
+      "RelativePath": "output.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\output.xlsx"
+    }
+  ]
+}

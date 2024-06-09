@@ -1,0 +1,6 @@
+@FileShrink_HostAddress = http://localhost:5182
+
+GET {{FileShrink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
